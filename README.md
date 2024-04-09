@@ -1,5 +1,5 @@
 # Українізатор vr-версії гри Arizona Sunshine (2016)
-
+<h4>Подяка автору <a href="https://ukrainizer.netlify.app/" target="_blank" > посібника створення українізатора</a>./h4>
 <h2>Встановлення</h2>
 
 Замінити файл resources.assets у папці з встановленою грою на файл з цього репозиторію.
@@ -16,6 +16,8 @@
   <li>Dead Man DLC</li>
   <li>The Damned DLC</li>
 </ul>
+
+
 
 <h3>Скріншоти:</h3>
 
