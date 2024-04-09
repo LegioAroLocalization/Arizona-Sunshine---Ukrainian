@@ -2,7 +2,7 @@
 <h4>Подяка автору <a href="https://ukrainizer.netlify.app/" target="_blank" > посібника створення українізатора</a>.</h4>
 <h2>Встановлення</h2>
 
-Замінити файл resources.assets у папці з встановленою грою на файл з цього репозиторію.
+Замінити файл resources.assets в папці з встановленою грою на файл з цього репозиторію.
 Якщо у вас Steam-версія гри, то шлях до файлу буде приблизно такий: D:/SteamLibrary/steamapps/common/ArizonaSunshine/ArizonaSunshine_Data/
 
 <h2>Опис</h2>
