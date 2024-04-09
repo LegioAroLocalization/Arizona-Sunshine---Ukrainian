@@ -16,3 +16,4 @@
   <li>The Damned DLC</li>
 </ul>
 
+<h3>Скріншоти:</h3>
