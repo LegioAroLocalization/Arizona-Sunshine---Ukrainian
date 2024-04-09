@@ -1,6 +1,8 @@
 # Українізатор vr-версії гри Arizona Sunshine (2016)
 
+<h2>Встановлення</h2>
 
+[Contribution guidelines for this project](resources.assets)
 
 <h2>Опис</h2>
 
