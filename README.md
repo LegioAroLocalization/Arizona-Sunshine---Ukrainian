@@ -21,8 +21,9 @@
 
 <h3>Скріншоти:</h3>
 
-![1](https://github.com/LegioAroLocalization/Arizona-Sunshine---Ukrainian/assets/166553147/bd4141f9-e778-42bf-93dc-4f00c30352ba)
-![2](https://github.com/LegioAroLocalization/Arizona-Sunshine---Ukrainian/assets/166553147/19376a01-b4cc-422a-b28c-c0292cf250c9)
-![3](https://github.com/LegioAroLocalization/Arizona-Sunshine---Ukrainian/assets/166553147/f077605c-cc69-4cd8-a618-d35ab41b620d)
-![4](https://github.com/LegioAroLocalization/Arizona-Sunshine---Ukrainian/assets/166553147/dcf5ac8e-b678-426c-89ad-b0ca925b855b)
-![5](https://github.com/LegioAroLocalization/Arizona-Sunshine---Ukrainian/assets/166553147/85c4c184-0115-4efc-a56d-d9a08ad5fd61)
+![1](https://github.com/LegioAroLocalization/Arizona-Sunshine---Ukrainian/assets/166553147/b92c4ef9-2398-4ed7-b8ef-9ed842ead21b)
+![2](https://github.com/LegioAroLocalization/Arizona-Sunshine---Ukrainian/assets/166553147/9ca724d8-f11c-41a4-838b-2bdb179ce912)
+![3](https://github.com/LegioAroLocalization/Arizona-Sunshine---Ukrainian/assets/166553147/6652c32b-e2b0-42b0-aac7-64cb723b6eb2)
+![4](https://github.com/LegioAroLocalization/Arizona-Sunshine---Ukrainian/assets/166553147/520ba1da-f0f6-4547-a87b-ac9fc232ca6d)
+![5](https://github.com/LegioAroLocalization/Arizona-Sunshine---Ukrainian/assets/166553147/5f1b0b32-1a9a-4f2b-a728-7cf1cea3948e)
+
